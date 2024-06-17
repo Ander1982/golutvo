@@ -1,0 +1,129 @@
+.logo-top {
+  float: left;
+  margin: 0px 0px 5px 30px;
+}
+
+.phone-number {
+  width: 200px;
+  height: 40px;
+  float: right;
+  margin: 20px 10px 5px 20px;
+}
+
+.whatsapp-number {
+  width: 35px;
+  height: 35px;
+  float: right;
+  margin: 15px 30px 5px 20px;
+  background: url(../cms/wa-image-color.png) no-repeat center top / cover;
+  transition: 0.5s ease-in-out;
+}
+.telegram-number {
+  width: 35px;
+  height: 35px;
+  float: right;
+  margin: 15px 30px 5px 20px;
+  background: url(../cms/tg-image-color.png) no-repeat center top / cover;
+  transition: 0.5s ease-in-out;
+}
+
+.slaider_h {
+	height: 60px;
+	width: 50%;
+	margin: 30px 0px 10px 0px;
+	padding-top: 20px;
+	background-color: rgba(10, 77, 125, 0.5);
+	text-align: center;
+}
+
+.slaider_p {
+	height: 100%;
+	width: 80%;
+	float: right;
+	margin: 0px 0px 30px 0px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	background-color: rgba(10, 77, 125, 0.5);
+	text-align: center;
+}
+
+.text-3 {
+  color: #000501;
+  font-size: 2em;
+  text-align: center;
+  padding-top: 7%;
+  padding-bottom: 7%;
+  font-weight: 700;
+  text-shadow:
+  1px 1px 2px black,
+  0 0 1em blue,
+  0 0 0.2em rgb(234, 234, 238);
+  
+}	
+
+.product_card {
+	margin: 10px;
+
+}
+
+.table_one {
+	font-size: 1.4em;
+	/* background: rgb(214, 212, 212); */
+}
+
+.class_form {
+  text-align: center;
+  padding-bottom: 7%;
+  /* background: rgb(214, 212, 212); */
+  color: #0a0909;
+  font-weight: 700;
+  text-shadow:
+  1px 1px 2px black,
+  0 0 1em blue,
+  0 0 0.2em rgb(234, 234, 238);
+}
+.logo-bottom {
+
+  margin: 0 0 5px;
+}
+
+.thank{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: calc(100vh - 162px);
+}
+ body{
+    background-size: 100%;
+    padding: 0;
+    margin: 0;
+
+    background-attachment: fixed;
+}
+.main{
+  text-align: center;
+}
+.old{
+  font-weight: 700;
+  color: #e81010;  
+  text-shadow:
+  1px 1px 2px black,
+  0 0 1em blue,
+  0 0 0.2em rgb(234, 234, 238); 
+}
+.new{
+  font-weight: 700;
+  color:rgb(255, 115, 0);  
+  text-shadow:
+  1px 1px 2px black,
+  0 0 1em blue,
+  0 0 0.2em rgb(234, 234, 238); 
+}
+.title{
+  font-weight: 700;
+  color: #050505;  
+  text-shadow:
+  1px 1px 2px black,
+  0 0 1em blue,
+  0 0 0.2em rgb(234, 234, 238); 
+}
